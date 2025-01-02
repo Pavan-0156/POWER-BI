@@ -2,7 +2,7 @@
 ## Blinkit interactive dashboard Project
 STEPS IN PROJECT
 
-✓ Requirement Gathering/ Business Requirements
+✓ Requirement Gathering/ Business Requirements <br>
 ✓ Data Walkthrough
 ✓ Data Connection
 ✓ Data Cleaning / Quality Check
