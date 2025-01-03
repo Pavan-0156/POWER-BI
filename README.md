@@ -61,7 +61,8 @@ Chart Type: Matrix Card.<br>
 
 ## Interactive Dashboard
 Final Dashboard after creating the business requirments and charts 
-![vedio alt](https://github.com/Pavan-0156/POWER-BI/blob/main/DASHBOARD.mp4)
+[Download the video]()
+
 
 
 
