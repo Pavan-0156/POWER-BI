@@ -60,7 +60,7 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 Chart Type: Matrix Card.<br>
 
 ## Interactive Dashboard
-Final Dashboard after creating the business requirments and charts 
+Final Interactive Dashboard after meeting business requirments and charts <br>
 [Download the video](https://github.com/Pavan-0156/POWER-BI/blob/main/DASHBOARD.mp4)
 
 
